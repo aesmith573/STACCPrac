@@ -2,8 +2,10 @@ myName = "Andy";
 
 
 function printName() {
-    console.log(myName);
+    console.log("This is my name: " + myName);
 }
+
+
 
 // this function prints my name to console 
 printName(); 
