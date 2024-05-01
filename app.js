@@ -2,7 +2,7 @@ myName = "Andy";
 
 
 function printName() {
-    console.log("This is my name: " + myName);
+    console.log("This is my name: " + myName + "I love it so much.");
 }
 
 
